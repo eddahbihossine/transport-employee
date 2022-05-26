@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PFA/Transport_Employee/app/src/main/res/drawable/backgr.xml" value="0.2305" />
+        <entry key="..\:/PFA/Transport_Employee/app/src/main/res/drawable/beclipse.xml" value="0.2305" />
+        <entry key="..\:/PFA/Transport_Employee/app/src/main/res/drawable/button.xml" value="0.2305" />
+        <entry key="..\:/PFA/Transport_Employee/app/src/main/res/drawable/circle.xml" value="0.2305" />
+        <entry key="..\:/PFA/Transport_Employee/app/src/main/res/drawable/dot.xml" value="0.2305" />
+        <entry key="..\:/PFA/Transport_Employee/app/src/main/res/drawable/eclipse.xml" value="0.2305" />
+        <entry key="..\:/PFA/Transport_Employee/app/src/main/res/drawable/input.xml" value="0.2305" />
+        <entry key="..\:/PFA/Transport_Employee/app/src/main/res/drawable/jixo.xml" value="0.241" />
+        <entry key="..\:/PFA/Transport_Employee/app/src/main/res/drawable/line.xml" value="0.2305" />
+        <entry key="..\:/PFA/Transport_Employee/app/src/main/res/layout/activity_connect_driver.xml" value="0.221875" />
+        <entry key="..\:/PFA/Transport_Employee/app/src/main/res/layout/activity_connect_employee.xml" value="0.2359375" />
+        <entry key="..\:/PFA/Transport_Employee/app/src/main/res/layout/activity_historique_employee.xml" value="0.2359375" />
+        <entry key="..\:/PFA/Transport_Employee/app/src/main/res/layout/activity_informations_driver.xml" value="0.2359375" />
+        <entry key="..\:/PFA/Transport_Employee/app/src/main/res/layout/activity_informations_employee.xml" value="0.2359375" />
+        <entry key="..\:/PFA/Transport_Employee/app/src/main/res/layout/activity_liste_employes_driver.xml" value="0.2359375" />
+        <entry key="..\:/PFA/Transport_Employee/app/src/main/res/layout/activity_liste_stations_driver.xml" value="0.2359375" />
+        <entry key="..\:/PFA/Transport_Employee/app/src/main/res/layout/activity_main.xml" value="0.2359375" />
+        <entry key="..\:/PFA/Transport_Employee/app/src/main/res/layout/activity_navigation_bar_driver.xml" value="0.2359375" />
+        <entry key="..\:/PFA/Transport_Employee/app/src/main/res/layout/activity_navigation_bar_employee.xml" value="0.2359375" />
+        <entry key="..\:/PFA/Transport_Employee/app/src/main/res/layout/activity_on1_driver.xml" value="0.2359375" />
+        <entry key="..\:/PFA/Transport_Employee/app/src/main/res/layout/activity_on1_employee.xml" value="0.221875" />
+        <entry key="..\:/PFA/Transport_Employee/app/src/main/res/layout/activity_on2_driver.xml" value="0.2359375" />
+        <entry key="..\:/PFA/Transport_Employee/app/src/main/res/layout/activity_on2_employee.xml" value="0.2359375" />
+        <entry key="..\:/PFA/Transport_Employee/app/src/main/res/layout/activity_rate_us_employee.xml" value="0.2359375" />
+        <entry key="..\:/PFA/Transport_Employee/app/src/main/res/layout/activity_reclamations_employee.xml" value="0.2359375" />
+        <entry key="..\:/PFA/Transport_Employee/app/src/main/res/layout/activity_tencours_driver.xml" value="0.2359375" />
+        <entry key="..\:/PFA/Transport_Employee/app/src/main/res/layout/activity_tencours_employee.xml" value="0.2359375" />
+        <entry key="..\:/PFA/Transport_Employee/app/src/main/res/layout/activity_trajet_det_driver.xml" value="0.2359375" />
+        <entry key="..\:/PFA/Transport_Employee/app/src/main/res/layout/activity_trajet_det_employee.xml" value="0.2359375" />
+        <entry key="..\:/PFA/Transport_Employee/app/src/main/res/layout/activity_trajet_ncours_driver.xml" value="0.2359375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
